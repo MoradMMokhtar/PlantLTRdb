@@ -1,5 +1,5 @@
 # PlantLTRdb
-PlantLTRdb: An interactive database of plant LTR-Retrotransposons
+PlantLTRdb: Plant LTR-Retrotransposons database
 
 This repository contains: 
 
